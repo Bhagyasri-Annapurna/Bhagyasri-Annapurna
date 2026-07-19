@@ -25,7 +25,7 @@
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+- 💼 LinkedIn: www.linkedin.com/in/bhagyasri-annapurna-thota-953a91227/
 - 📧 Email: bhagyasrithota30@gmail.com
 
 ---
