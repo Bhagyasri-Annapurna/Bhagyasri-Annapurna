@@ -1,6 +1,9 @@
 # Hi there, I'm Bhagyasri Annapurna 👋
 
-🎯 **Aspiring Data Analyst** passionate about transforming data into meaningful insights through analytics and visualization.
+🎯 Microsoft Certified: Power BI Data Analyst Associate with 3+ years of experience in data analysis, 
+business intelligence, and dashboard development. Skilled in SQL, Power BI, DAX, Power Query, Looker 
+Studio, and Advanced Excel, with experience in data modeling, reporting automation, and analyzing 
+large datasets.
 
 ## 👩‍💻 About Me
 
@@ -14,13 +17,24 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+## Certifications
+
+<a href="YOUR_MICROSOFT_LEARN_PROFILE_LINK">
+  <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg"
+       alt="Microsoft Certified: Power BI Data Analyst Associate"
+       width="120"/>
+</a>
+
+**Microsoft Certified: Power BI Data Analyst Associate (PL-300)**
+
 ## 🛠️ Skills
 
 - **Languages:** SQL, Python
 - **Visualization:** Power BI, Excel
 - **Libraries:** Pandas, NumPy, Matplotlib
-- **Database:** MySQL
-- **Other:** Power Query, DAX, Git, GitHub
+- **Database:** MySQL, PostgreSQL, SQL Server Management
+- **Power BI:** DAX, Data Modeling, Star Schema, Dashboard Development, Row-Level Security (RLS) 
 
 ## 📂 Featured Projects
 
