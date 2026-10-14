@@ -8,8 +8,8 @@ large datasets.
 ## 👩‍💻 About Me
 
 - 📊 Interested in **Data Analytics, Business Intelligence, and Data Visualization**
-- 📈 Skilled in **Power BI, SQL, Excel, Python, and DAX**
-- 🌱 Currently expanding my knowledge in **Advanced SQL, Python for Data Analysis, and Machine Learning**
+- 📈 Skilled in **Power BI, SQL, Excel, Python,Looker and DAX**
+- 🌱 Currently expanding my knowledge in **Advanced SQL, Python for Data Analysis, Power BI and Machine Learning**
 - 💡 I enjoy building interactive dashboards and solving business problems using data.
 
 
